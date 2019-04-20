@@ -158,8 +158,8 @@
     - most lines are not perfect
 - the imperfect way of doing it:
     - S -> any syllable
-    - W -> only unstressed syllables
-    - exception: the line-initial W can be any syllable IF it's a 1-syllable word
+    - W -> only unstressed syllables unless one syllable word
+    - exception: the first W can be stressed for any word
 - not identical to WSWSWS pattern but does not depart far
 
 ## Metrical Tension/Counterpoint
@@ -180,19 +180,56 @@
 
 ## Structural Differences Between Sung and Written Verse
 
+- sung verse -> generally not strict
+- written verse -> generally iambic pentameter
+
 ## Musical Grammar, Judgements
+
+- experienced listeners can tell what's right and wrong
+- grammatical judgements -> a speaker's judgement on how well-formed a string is
 
 ## Properties Shared by Music and Language
 
 ### Grouping / Constituency
 
+- utterances have hierarchal grouping and structure
+    - -> constituents can be inside other constituents
+
 ### Rhythm
+
+- regular alternation of strong and weak
+- prosody -> patterns of rhythm and sound used in poetry
 
 ### Recursion
 
+- organized into constituents
+- constituents inside constituents
+- grouping signaled through how it sounds (pitch, duration, intonation)
+
+### Features Shared
+
+1. Syntax
+1. Phonology
+1. Discreteness
+1. Recursion
+
 ## Differences Between Musical and Linguistic Structure
 
+- finite set of available pitches
+    - continuous in language, discrete in music
+- equivalence of pitches that differ by a multiple of 2
+    - 110Hz, 220Hz, 440Hz, 880Hz = A
+    - possible linguistic parallel? phoneme corresponds to multiple sounds... but this is weak
+- tonality -> "home key" as the central tone of a piece
+    - other pitches have tension/instability
+- musical idioms
+    - conventional sequences build and resolve tension
+
 ## Sapir-Whorf Hypothesis
+
+- language shapes thought
+
+<!-- left off here -->
 
 ## Studies Investigating Language and Culture
 
