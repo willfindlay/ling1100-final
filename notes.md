@@ -176,17 +176,19 @@
 ### Counterpoint
 
 - mismatch between linguistic representation and metrical template
-- harmonically dependent, independent in rhythm and contour
+- harmonically dependent
+- independent in rhythm and contour
 
 ## Structural Differences Between Sung and Written Verse
 
-- sung verse -> generally not strict
+- sung verse -> generally not as strict
 - written verse -> generally iambic pentameter
 
 ## Musical Grammar, Judgements
 
 - experienced listeners can tell what's right and wrong
 - grammatical judgements -> a speaker's judgement on how well-formed a string is
+- musical grammatical judgement is called musical idiom
 
 ## Properties Shared by Music and Language
 
@@ -194,6 +196,11 @@
 
 - utterances have hierarchal grouping and structure
     - -> constituents can be inside other constituents
+
+### Headedness
+
+- noun phrase has a head
+- musical strings have a head
 
 ### Rhythm
 
@@ -224,20 +231,70 @@
     - other pitches have tension/instability
 - musical idioms
     - conventional sequences build and resolve tension
+- simultaneity
+    - in language you mostly can't do two things at once
+    - suprasegmental stuff, yes
+    - but you can't say two things at once
 
 ## Sapir-Whorf Hypothesis
 
 - language shapes thought
-
-<!-- left off here -->
+- the way you speak determines the way you think (strong form)
+    - not a strong contender
+- the way you speak *influences* the way you think (weak form)
+    - this is a more realistic contender
+- language is merely a part of culture (weakest form)
+    - this is obviously *at least* true, but the above may be true as well
 
 ## Studies Investigating Language and Culture
 
 ### Language and Color
 
+- colors within category are harder to perceive differences than colors across categories
+    - e.g., two shades of red vs red and orange
+    - this is true even when distance on the spectrum is the same
+- tested English and Russian speakers
+    - in English, one category for blue
+    - in Russian, two categories for blue
+    - other color used as a control
+    - Russian speakers very slightly better at distinguishing
+- two possibilities:
+    1. Russian speakers are using different perceptual systems
+    1. subjects are using language to think about color
+- give a simultaneous linguistic task to make language unavailable for the color task
+    - difference disappears
+    - possibility 2 is the winner
+
 ### Language and Time
 
+- next Wednesdays meeting has been moved forward two days
+    - is it on Monday?
+    - is it on Friday?
+    - how do you position yourself relative to time
+- do you perceive yourself:
+    - moving forward through time?
+    - time moving forward around you?
+- spacial primes
+    - related tasks prime people to answer one way or the other
+    - people who had been standing in line for long time were more likely to say Friday
+    - people who had just flown (perceived themselves as moving) answer Friday
+- the fact that this can change (based on priming) goes against SWH
+- Borodistky (2001)
+    - Mandarin and English native speakers
+    - Mandarin -> vertical time concept
+    - English -> horizontal time concept
+    - exposed to primer images
+    - vertical bias greater for those who started learning English later in life
+
 ### Language and Space
+
+- studied Guugu Yimidhiir and English
+    - English -> relative
+    - Guugu Yimidhiir -> absolute
+- Levinson (1997)
+    - do Guugu Yimidhiir retain relative or absolute positions in memory
+    - speakers use language to encode memory
+    - so, yes, there was a difference between English and Guugu Yimidhiir
 
 ## Causes of Language Endangerment and Loss
 
